@@ -1,4 +1,4 @@
 #!/bin/bash
 ls
-echo 'Hello'
+echo "Hello"
 ls -l
